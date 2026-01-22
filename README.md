@@ -8,8 +8,10 @@ relacionais (PostgreSQL), BigQuery e processos de ETL. Familiaridade com ambient
 Linux, containers Docker e orquestração de tarefas com Apache Airflow. Perfil analítico,
 organizado e orientado à melhoria contínua de processos.
 
-🎯 **Objetivo:** 
-Engenheiro de Dados / Desenvolvedor Python​
+## 🎯 Objetivo:
+
+**Engenheiro de Dados / Desenvolvedor Python**
+​
 Atuar na construção e manutenção de pipelines de dados, integração entre sistemas,
 automação de processos e apoio à tomada de decisão por meio de dados confiáveis e
 escaláveis. 
