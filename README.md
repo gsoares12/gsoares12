@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Guilherme Henrique
 
-<!--
-**gsoares12/gsoares12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem sou eu? 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Objetivo:** Engenheiro de Dados / Desenvolvedor Python​
+Atuar na construção e manutenção de pipelines de dados, integração entre sistemas,
+automação de processos e apoio à tomada de decisão por meio de dados confiáveis e
+escaláveis. 
+📚 Atualmente estudando **Python, SQL, ETL e Engenharia de Dados**  
+
+
+---
+
+## 🚀 Tecnologias que utilizo
+
+**Linguagens e ferramentas:**
+
+- Airflow
+- Python (Pandas, NumPy, Polars, Matplotlib, Streamlit)
+- SQL (PostgreSQL, MongoDB, Firebase, BigQuery)
+- Google Cloud  
+- Git & GitHub  
+- Jupyter Notebook  
+- Docker  
+- Linux
+- Zabbix
+
+---
+
+
+---
+
+## 📈 Stats do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+
+---
+
+## 📫 Contato
+
+✉️ Email: gsoaressh@gmail.com.br 
+🔗 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/guilherme-henrique-soares-343481197/)
+📞 Telefone: +55 3199603-5545
+---
+
+✨ *Obrigado por visitar meu perfil!*
+
