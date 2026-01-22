@@ -4,10 +4,13 @@
 
 
 🎯 **Objetivo:** Engenheiro de Dados / Desenvolvedor Python​
-Atuar na construção e manutenção de pipelines de dados, integração entre sistemas,
-automação de processos e apoio à tomada de decisão por meio de dados confiáveis e
-escaláveis. 
-📚 Atualmente estudando **Python, SQL, ETL e Engenharia de Dados**  
+    Atuar na construção e manutenção de pipelines de dados, integração entre sistemas,
+    automação de processos e apoio à tomada de decisão por meio de dados confiáveis e
+    escaláveis. 
+    
+📚 ### Atualmente estudando... 
+
+**Python, SQL, ETL e Engenharia de Dados**  
 
 
 ---
@@ -33,7 +36,7 @@ escaláveis.
 
 ## 📈 Stats do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsoares12&show_icons=true&theme=default)
 
 ---
 
