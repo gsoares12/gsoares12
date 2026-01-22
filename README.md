@@ -9,13 +9,11 @@ Linux, containers Docker e orquestração de tarefas com Apache Airflow. Perfil 
 organizado e orientado à melhoria contínua de processos.
 
 ## 🎯 Objetivo:
-
-**Engenheiro de Dados / Desenvolvedor Python**
----​
+​
 Atuar na construção e manutenção de pipelines de dados, integração entre sistemas,
 automação de processos e apoio à tomada de decisão por meio de dados confiáveis e
 escaláveis. 
----
+
 📚  **Atualmente estudando...** 
 
 - Python, SQL, ETL, Cloud, 
