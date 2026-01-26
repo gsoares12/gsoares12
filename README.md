@@ -22,6 +22,9 @@ escaláveis.
 
 ## 🚀 Tecnologias que utilizo
 
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,ubuntu,debian)](https://skillicons.dev)
+
 ### 🗃️ Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase)](https://skillicons.dev)
 
