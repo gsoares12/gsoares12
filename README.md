@@ -17,7 +17,7 @@ escaláveis.
 📚  **Atualmente estudando...** 
 
 - Python, SQL, ETL, Cloud, 
-- Plataforma Cursos Complementares: [Alura](https://www.linkedin.com/in/guilherme-henrique-soares-343481197/)
+- Plataforma Cursos Complementares: [Alura](https://cursos.alura.com.br/user/guilhermehenrique1954-gh)
 ---
 
 ## 🚀 Tecnologias que utilizo
