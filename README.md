@@ -22,23 +22,18 @@ escaláveis.
 
 ## 🚀 Tecnologias que utilizo
 
-### 🛠️ Ferramentas de desenvolvimento
+## Tecnologias e linguagens
+[![My Skills](https://skillicons.dev/icons?i=gcp,py,anaconda,bash)](https://skillicons.dev)
+
+### Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=docker,zabbix,sqlite)](https://skillicons.dev)
+
+### Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,ubuntu,debian)](https://skillicons.dev)
 
-### 🗃️ Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase)](https://skillicons.dev)
+### Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,firebase,mongodb)](https://skillicons.dev)
 
-**Linguagens e ferramentas:**
-
-- Airflow
-- Python (Pandas, NumPy, Polars, Matplotlib, Streamlit)
-- SQL (PostgreSQL, MongoDB, Firebase, BigQuery)
-- Google Cloud  
-- Git & GitHub  
-- Jupyter Notebook  
-- Docker  
-- Linux
-- Zabbix
 
 ---
 
