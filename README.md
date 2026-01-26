@@ -26,7 +26,7 @@ escaláveis.
 [![My Skills](https://skillicons.dev/icons?i=gcp,py,anaconda,bash)](https://skillicons.dev)
 
 ### Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=docker,zabbix,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ### Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,ubuntu,debian)](https://skillicons.dev)
