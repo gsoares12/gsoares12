@@ -22,6 +22,9 @@ escaláveis.
 
 ## 🚀 Tecnologias que utilizo
 
+### 🗃️ Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase)](https://skillicons.dev)
+
 **Linguagens e ferramentas:**
 
 - Airflow
