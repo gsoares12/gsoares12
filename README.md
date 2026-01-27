@@ -20,9 +20,7 @@ escaláveis.
 - Plataforma Cursos Complementares: [Alura](https://cursos.alura.com.br/user/guilhermehenrique1954-gh)
 ---
 
-## 🚀 Tecnologias que utilizo
-
-## Tecnologias e linguagens
+### Tecnologias e linguagens
 [![My Skills](https://skillicons.dev/icons?i=gcp,py,anaconda,bash)](https://skillicons.dev)
 
 ### Frameworks e bibliotecas
