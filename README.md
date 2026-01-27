@@ -23,15 +23,13 @@ escaláveis.
 ### Tecnologias e linguagens
 [![My Skills](https://skillicons.dev/icons?i=gcp,py,anaconda,bash)](https://skillicons.dev)
 
-### Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
 ### Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,ubuntu,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,ubuntu,debian,docker)](https://skillicons.dev)
 
 ### Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,firebase,mongodb)](https://skillicons.dev)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
