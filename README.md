@@ -29,8 +29,6 @@ escaláveis.
 ### Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,firebase,mongodb)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ---
 
 ## 📈 Stats do GitHub
