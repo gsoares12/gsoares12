@@ -31,12 +31,6 @@ escaláveis.
 
 ---
 
-## 📈 Stats do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsoares12&show_icons=true&theme=default)
-
----
-
 ## 📫 Contato
 
 - ✉️ Email: gsoaressh@gmail.com.br 
