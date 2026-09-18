@@ -29,6 +29,8 @@ escaláveis.
 ### Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,firebase,mongodb)](https://skillicons.dev)
 
+### GitHub Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsoares12&show_icons=true&theme=radical)
 ---
 
 ## 📫 Contato
